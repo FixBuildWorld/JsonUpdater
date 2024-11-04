@@ -3,9 +3,9 @@
  "Version": "1.0",
  "ReleaseNotes": "What's new!",
  "contactSupport": "h",
- "config_url": "2xvsgTjQBOtRwqTCQNJsCAqJN2IHcioet\/m7DcQUhdFYCtQtP8rmXBioVt7547BX0749JwRTpCmIJu8q6TNeR14kWDUzCpkLqPcF7kV49JHQtw==",
- "account_api": "wIkRGMKuRVDg\/PSIC0bXaf2v38IymhMSKKMdRiq+cYTFiZ5nCQpOjKiZAdE=",
- "AppConfPass": "GWk92U+sTYTw6gkPgvhUdUDW6ZQ7PVYdEJkuoEV2916tUe42hgN6LFNSOnA=",
+ "config_url": "eAikFGsMmBsUZWe+FpdEDMCVG+O8xNQiqdiPsRAfAjM0K\/N6vbjlKRFjw1bKhjG4K742wCHA9Jr\/eRBNxCyibAi0VTVpLTH4AnN0lH2mFhPLpQ==",
+ "account_api": "Ultdz0pvP+HnWnh0LiyFGAcy5Rg1ff96dm4SyjR54a7gKcAGROjV7ElS5kg=",
+ "AppConfPass": "pHuM95Az5p1I\/N8+Ccmrtj0gSYTjD\/0ir3Jtyf9yypTDIaSf7orok0byPyE=",
  "Servers": [
   {
    "Name": "hello",
@@ -34,8 +34,38 @@
    "server_web_renew": "www.vpnjantit.com"
   }
  ],
- "HTTPNetworks": [],
- "SSLNetworks": [],
+ "HTTPNetworks": [
+  {
+   "FLAG": "9applogo",
+   "proto_spin": 6,
+   "server_type": "cf",
+   "Name": "jsjs",
+   "NetworkPayload": "EfuKtWTWwrZ+4Ew4qkBU9U+W3twccPM++XF\/IG\/+0fa5WmVFZKwKfcs98Gc9TLc=",
+   "Info": "jja",
+   "UseDefProxy": true,
+   "AutoReplace": false,
+   "SquidProxy": "DfB+kVbp81z\/gwV4yff8qmpn4S+1ThMmNzHvFYdRpeSXz\/b5sUWpYC3P8DCdj3L9MBeUnw8=",
+   "SquidPort": "8080",
+   "V2rayPayloadType": 1,
+   "NetworkFrontQuery": "Bg7+81FOYolGtkw9aaTcEu24Hz9o93RPkad2ZG+5NsQcNu3+9RFs2+2284c=",
+   "NetworkBackQuery": "TVBc2M701qb5TG5PhcDu2cblUtA5OVdsWcOeQBOPB6\/iIXnMHdvrzHocY1A="
+  }
+ ],
+ "SSLNetworks": [
+  {
+   "FLAG": "abv2ray5",
+   "proto_spin": 3,
+   "server_type": "cf",
+   "Name": "ujs",
+   "SSLSNI": "NC+ccNnrxMElp6EsOjZi0vQ5s5GtKJIAWqVNiSle21Fk1i0IFabgdNQs\/iOCJwY=",
+   "SSLPayload": "FKSg7bfMNbZ6KI8hKOKe3OttawziEXIRphEkJ2pSsFKX9ocFD2jWKyO3vDA=",
+   "Info": "nns",
+   "UseDefProxy": true,
+   "SquidProxy": "XmvTmlrval1s+NytUQ8Am8oDDAA3CyGBMdpkejrewPtc08A7FrDSdUbrNXbl8oIfNfHZnzw=",
+   "SquidPort": "8080",
+   "SSLPort": "jns"
+  }
+ ],
  "JSONsettings": [
   {
    "mLocalPort": "1080",
