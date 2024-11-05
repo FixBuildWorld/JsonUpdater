@@ -2,70 +2,13 @@
  "FileName": "fix",
  "Version": "1.0",
  "ReleaseNotes": "What's new!",
- "contactSupport": "h",
- "config_url": "eAikFGsMmBsUZWe+FpdEDMCVG+O8xNQiqdiPsRAfAjM0K\/N6vbjlKRFjw1bKhjG4K742wCHA9Jr\/eRBNxCyibAi0VTVpLTH4AnN0lH2mFhPLpQ==",
- "account_api": "Ultdz0pvP+HnWnh0LiyFGAcy5Rg1ff96dm4SyjR54a7gKcAGROjV7ElS5kg=",
- "AppConfPass": "pHuM95Az5p1I\/N8+Ccmrtj0gSYTjD\/0ir3Jtyf9yypTDIaSf7orok0byPyE=",
- "Servers": [
-  {
-   "Name": "hello",
-   "sUdpObfs": "RoQVKloPGsnxb0SBQ25LwE0qyOm6OBt\/PB7pJ4j68dmxRY1SpA7zciH1VEw=",
-   "serverType": 3,
-   "FLAG": "argentina",
-   "Category": 0,
-   "V2rayType": 2,
-   "ServerIP": "XXo6ohj6kQ+5\/CYLLo7Z7sND93\/UWWrAmEYJ47uF9XWsiofW49ofSe45rvk=",
-   "ServerCloudFront": "colSP9koSo0zj4Z9ZGDnGCVmdWW31bYK4Ef5+G8qE50SRVc3kL\/OUDYCvDcOASOK",
-   "ServerHTTP": "bEppGVtFYoEONxYCUYBT2N4mX1kkasLYyikp4F0jvRvHQAWud\/GVBMrcbAU=",
-   "TcpPort": "1194:53",
-   "SSLPort": "443",
-   "VnetCertExp": "22723Yo8VSC7uU44ZRweHtk\/\/gboqzpScdHv18gANua12pzbkweMoYWc6r8myAeM+9jKtkCAkw0GDho1M\/JqSIWGzTw4qCcZZtZO0QAYGe9y+c3Zq35zTE8\/SrgyyW2mYZa0HsqhnDhL+Ey1",
-   "TrackPostExp": "g3xfzPlK1g5pVrosLcQb87zCBtyTKn1n1OujjKy\/L3qHQpDUTgEYs4QSEWphnwSFrGcLjhqc9TvZxgAcJxRtzDtgnx81IsNjVa\/vTgVhK1tHU41HGBPqtVsteJjEUhrAUFPs9QlwC3fPzfel",
-   "ProxyHost": "uoI9B7K9k1OPZtAkGVqiaZnXmDq+dCa\/fydVGtvvNOAYtbsVTjk8pC8OXz0=",
-   "ProxyPort": "",
-   "AutoLogIn": true,
-   "Username": "VN7JmYNKF\/9YjbLt1vd1WxTrqj8uxDtJ3fSVm81C5gzvKXNUp5K7Rt88mdkHg44=",
-   "Password": "2xNHVKVGKWyelt6NDH9TF2\/AeyzBOIbdmMEMp2V2wlKBuDfVAArMsMaLI1BEbjo=",
-   "MultiCert": false,
-   "ovpnCertificate": "",
-   "Server_msg": "hjsj",
-   "Server_exp_box": true,
-   "Server_exp": "1730821370534-spliter-9:42 PM",
-   "server_web_renew": "www.vpnjantit.com"
-  }
- ],
- "HTTPNetworks": [
-  {
-   "FLAG": "9applogo",
-   "proto_spin": 6,
-   "server_type": "cf",
-   "Name": "jsjs",
-   "NetworkPayload": "EfuKtWTWwrZ+4Ew4qkBU9U+W3twccPM++XF\/IG\/+0fa5WmVFZKwKfcs98Gc9TLc=",
-   "Info": "jja",
-   "UseDefProxy": true,
-   "AutoReplace": false,
-   "SquidProxy": "DfB+kVbp81z\/gwV4yff8qmpn4S+1ThMmNzHvFYdRpeSXz\/b5sUWpYC3P8DCdj3L9MBeUnw8=",
-   "SquidPort": "8080",
-   "V2rayPayloadType": 1,
-   "NetworkFrontQuery": "Bg7+81FOYolGtkw9aaTcEu24Hz9o93RPkad2ZG+5NsQcNu3+9RFs2+2284c=",
-   "NetworkBackQuery": "TVBc2M701qb5TG5PhcDu2cblUtA5OVdsWcOeQBOPB6\/iIXnMHdvrzHocY1A="
-  }
- ],
- "SSLNetworks": [
-  {
-   "FLAG": "abv2ray5",
-   "proto_spin": 3,
-   "server_type": "cf",
-   "Name": "ujs",
-   "SSLSNI": "NC+ccNnrxMElp6EsOjZi0vQ5s5GtKJIAWqVNiSle21Fk1i0IFabgdNQs\/iOCJwY=",
-   "SSLPayload": "FKSg7bfMNbZ6KI8hKOKe3OttawziEXIRphEkJ2pSsFKX9ocFD2jWKyO3vDA=",
-   "Info": "nns",
-   "UseDefProxy": true,
-   "SquidProxy": "XmvTmlrval1s+NytUQ8Am8oDDAA3CyGBMdpkejrewPtc08A7FrDSdUbrNXbl8oIfNfHZnzw=",
-   "SquidPort": "8080",
-   "SSLPort": "jns"
-  }
- ],
+ "contactSupport": "fix",
+ "config_url": "PPUaXDrU2KQuTL2hngaCvqMg2zRRrwxd\/Fgr8k36uyRMprOvz5ByqKhiN0LNywsdptYoDSTth3xpFeZ2bX47wsj7R8bYZu7qFbNSsSdsYoPXPw==",
+ "account_api": "eq\/dqzaCDGNW7Xc0nQHLnH9PTfBXBPWmB4NgqjGO14Y\/2c\/MsO6qZX9GpQk=",
+ "AppConfPass": "NWD0oHRuOdpTbzezrcPK59oDDOA1kvnuyd17YeUDvAnttKtM9jLklmEztXE=",
+ "Servers": [],
+ "HTTPNetworks": [],
+ "SSLNetworks": [],
  "JSONsettings": [
   {
    "mLocalPort": "1080",
