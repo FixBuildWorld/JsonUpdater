@@ -1,11 +1,14 @@
 {
+ "appUpNotes": "New security updates\nUpdate must for every users!",
+ "appBuildVersion": "5.02",
+ "applicationLink": "https:\/\/google.com",
  "FileName": "fixConfig",
  "Version": "1.28",
  "ReleaseNotes": "What's new!",
  "contactSupport": "www.google.com",
- "config_url": "2iPWZVexB9OZisctiR5fmD05ifsMqDTJ44fkcxpq3AUTz4Z\/y+04w0UhOwvNPgwQ9yyXFQEPit8lG\/7mOk9ZS2665mA036WtqmkZb\/0WXzc0SALGs8sd57wQu9DSxlNgabt333KYyD7N3MsAhNjuyA2CfeQO443OvAW1OcXp3H90vJQu6Z950Q==",
- "account_api": "6zaSlAUTo3IAAiF8H5sjLkOPpsnMKmU3VtKlR4B0HUq6S0ds6v3bJR+ifhdgHv54SGFT5MMD0BsHq46ecA53In5iGDP4DaFCZSH1VsvvTokERFueN3ARxH0=",
- "AppConfPass": "nCC9xAT7dSy0ApBlbdN6YJREBEcUhtAESCk4oVWbqFHozPwzm+Himnio9H8=",
+ "config_url": "9IfkIToBaAKUoW6DxBz9XrjmWOt2GGPsuv8B\/huv\/lF2A89iVFzBItv1WbOEw6ebIsOXpP7rmjV7OgLFw4SShevs1C8Qe8lKXLy8vNoN+ZwvW2AxmeDDnw6Fx3DhI+zpAclF4DBSbo\/smp853GvKtITbCHHlV2Wn1LI+J4ZuBU1Q0VJgFyCW+w==",
+ "account_api": "BeViXlZ9yFa0CGCTygX124Vwvar9yUSfo313yHduG67fqjiCHDFPvnSHkPbGhLWoRFgupqhZwjAxnZx9bsNLBhREwjlBmimBYB6SFBoWSw1gAlN3+jYALNY=",
+ "AppConfPass": "5cEYTcjBDLLeLzFCqxn29SCiZRrl7geq9UvNNLsA1rCFdH7YO84+\/klAwOo=",
  "Servers": [
   {
    "Name": "Premium Server New",
