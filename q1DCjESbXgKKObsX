@@ -6,9 +6,9 @@
  "Version": "1.0",
  "ReleaseNotes": "What's new!",
  "contactSupport": "www.google.com",
- "config_url": "1r35szeHS0h4b6P0fqrfsGK9udCBWfCoHwzUYADmJTRP8nyMCCTBjaNxWS7KKzLUVEjA1CoVGSZGpdoG5bOVKA7AskWX\/\/vz7knYqn9ITpF0\/7SoNqGpG8X+Z5WwjlRi0OxI7PAqP93tR+Ci9MJCKRlJ96XBQR4A6VKBuGqjBwbPkFNZ",
- "account_api": "BtpH\/dSDV\/P1qZuLT3l8xSXhwyPQzBZLzldEjHv+3AXeHNDQ4mlrteokqjkXqzpqjhnuITKeJGV+O1HpApxSxmWRzXZG7FHEw+vylISRwGS6hbzwQlZvARc=",
- "AppConfPass": "k0rE5Grl3D3KnfjPcYfItQLnLqzptuUwOSG2Qr3wT4CceRAkKKI1g002tIw=",
+ "config_url": "https:\/\/raw.githubusercontent.com\/FixBuildApp\/JsonUpdater\/refs\/heads\/main\/vpnconfig.json",
+ "account_api": "1cMttuQXKNsz4uoF\/XPTCsoo2oSycBTuN8icbjuYbKSNKNeiT2n8mDNzZwj2r9xHCGRIjJU3vOx4Hlh9BJyRK2oBl57ZobvgiuGE14YNQEXRiw6bhN04xm4=",
+ "AppConfPass": "MhoN3E2s3zPyVludPX9Q83eDzPmC4vzrc1Gav1Z8AN1FouSSQXCR5ISyPpU=",
  "Servers": [
   {
    "Name": "Germany Premium Server",
