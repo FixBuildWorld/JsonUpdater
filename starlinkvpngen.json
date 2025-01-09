@@ -3,7 +3,7 @@
  "appBuildVersion": "",
  "applicationLink": "",
  "FileName": "fixConfig",
- "Version": "1.20",
+ "Version": "1.21",
  "ReleaseNotes": "What's new!",
  "contactSupport": "host",
  "config_url": "+\/pdkmBjVCJztR18GZcaxZfV8fXqHDUoYaIRGAKPtJlOrDgjdApOqQzqCMMnQmMmqniB9KsMGBn+L2XD8QoptlUvROohZTfHqGaOIeEliBlJockb9\/W223IDxnvnZVY+",
@@ -256,7 +256,7 @@
    "UseDefProxy": "false",
    "AutoReplace": "false",
    "SquidProxy": "s6CU3dSzewe4j1IygmDA4w==",
-   "SquidPort": "8080",
+   "SquidPort": "80",
    "NetworkFrontQuery": "KUiEBX7OF6biOaS8+Oc0dw==",
    "NetworkBackQuery": "KUiEBX7OF6biOaS8+Oc0dw=="
   },
@@ -305,6 +305,22 @@
    "SquidProxy": "asTHFRLWKgIcm7hRxrt6Cg==",
    "SquidPort": "80",
    "V2rayPayloadType": 0,
+   "NetworkFrontQuery": "KUiEBX7OF6biOaS8+Oc0dw==",
+   "NetworkBackQuery": "KUiEBX7OF6biOaS8+Oc0dw=="
+  },
+  {
+   "FLAG": "9applogo",
+   "proto_spin": "0",
+   "server_type": "cf",
+   "Name": "http proxy_xonline",
+   "NetworkPayload": "b99IkvrXmW9lmV1H+cJZTiHAogtlSLI3LCBuebK7fPrHKVq642olPVCpuQBC2qDM5IrBmnJxHRvltsEBqdnFQS7Uf4dl6dYQCcFeqE8zkM+oFoFJ1C5EWGav49tEytpC6A5xAlahJNXhZ1orndlYg\/l0Nx0zM5dFXnAMtkqFcgpEumCQxtQ\/QUbXUHQWTwKcRPQNT3hRSGMg+T6WedVNSg==",
+   "NetworkHostConfig": "KUiEBX7OF6biOaS8+Oc0dw==",
+   "V2rayPayloadType": "0",
+   "Info": "test http",
+   "UseDefProxy": "false",
+   "AutoReplace": "false",
+   "SquidProxy": "s6CU3dSzewe4j1IygmDA4w==",
+   "SquidPort": "80",
    "NetworkFrontQuery": "KUiEBX7OF6biOaS8+Oc0dw==",
    "NetworkBackQuery": "KUiEBX7OF6biOaS8+Oc0dw=="
   }
