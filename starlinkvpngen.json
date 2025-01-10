@@ -3,7 +3,7 @@
  "appBuildVersion": "",
  "applicationLink": "",
  "FileName": "fixConfig",
- "Version": "1.28",
+ "Version": "1.29",
  "ReleaseNotes": "What's new!",
  "contactSupport": "host",
  "config_url": "+\/pdkmBjVCJztR18GZcaxZfV8fXqHDUoYaIRGAKPtJlOrDgjdApOqQzqCMMnQmMmqniB9KsMGBn+L2XD8QoptlUvROohZTfHqGaOIeEliBlJockb9\/W223IDxnvnZVY+",
@@ -246,6 +246,19 @@
   },
   {
    "FLAG": "9applogo",
+   "proto_spin": "3",
+   "server_type": "cf",
+   "Name": "zain ssl",
+   "SSLSNI": "UAy3pB9h0ReKDq8ED8Jm4Q==",
+   "SSLPayload": "KUiEBX7OF6biOaS8+Oc0dw==",
+   "Info": "high",
+   "UseDefProxy": "true",
+   "SquidProxy": "asTHFRLWKgIcm7hRxrt6Cg==",
+   "SquidPort": "8080",
+   "SSLPort": ""
+  },
+  {
+   "FLAG": "9applogo",
    "proto_spin": "0",
    "server_type": "cf",
    "Name": "http proxy",
@@ -259,6 +272,19 @@
    "SquidPort": "80",
    "NetworkFrontQuery": "KUiEBX7OF6biOaS8+Oc0dw==",
    "NetworkBackQuery": "KUiEBX7OF6biOaS8+Oc0dw=="
+  },
+  {
+   "FLAG": "9applogo",
+   "proto_spin": "5",
+   "server_type": "cf",
+   "Name": "ssl payload ws",
+   "SSLSNI": "kppQ8pJFy9ZsbqCwsXvRRw==",
+   "SSLPayload": "8Ty3tgkGfD\/xNgdrhe1es0rmzrPOUnDzEFBa\/zQmAnmwZuNeqi\/\/aQEAamWKTaz9vmjmGjQYnM7b7Q9Mpqa5aUNQtttOXuPLFvG6INL5D3AXBOoWX\/6T0du6nFCTsJiw",
+   "Info": "ssl",
+   "UseDefProxy": "false",
+   "SquidProxy": "B9ChHHtzpIq1ReIaO8fQaQ==",
+   "SquidPort": "443",
+   "SSLPort": ""
   },
   {
    "FLAG": "9applogo",
@@ -278,6 +304,19 @@
   },
   {
    "FLAG": "9applogo",
+   "proto_spin": "4",
+   "server_type": "cf",
+   "Name": "ssl payload only",
+   "SSLSNI": "kppQ8pJFy9ZsbqCwsXvRRw==",
+   "SSLPayload": "b99IkvrXmW9lmV1H+cJZTuD\/hPlsA89u69j0Grjg7ucklNOXfAuM1Gi5VhLhfbxqGdIpc6uWDI4eFwT2gyxGiKRyFZSuio9Uyc8n+nasQ+QAz8EYYrvD6F4IFVjwA1vsItIoHpQwvuqDRqz3xmud9enGGp0vgMTi+pdHfE+ILkgQC1bvKwODYWW+r1V9ghni",
+   "Info": "",
+   "UseDefProxy": "true",
+   "SquidProxy": "asTHFRLWKgIcm7hRxrt6Cg==",
+   "SquidPort": "8080",
+   "SSLPort": ""
+  },
+  {
+   "FLAG": "9applogo",
    "proto_spin": "2",
    "server_type": "cf",
    "Name": "Slowdns",
@@ -291,6 +330,19 @@
    "SquidPort": "8080",
    "NetworkFrontQuery": "KUiEBX7OF6biOaS8+Oc0dw==",
    "NetworkBackQuery": "KUiEBX7OF6biOaS8+Oc0dw=="
+  },
+  {
+   "FLAG": "9applogo",
+   "proto_spin": 3,
+   "server_type": "cf",
+   "Name": "netflix ssl",
+   "SSLSNI": "HV9fKXdx97sYLhegbbwsyjzjViu45kyQ2YqSNLcf\/yk=",
+   "SSLPayload": "KUiEBX7OF6biOaS8+Oc0dw==",
+   "Info": "",
+   "UseDefProxy": true,
+   "SquidProxy": "asTHFRLWKgIcm7hRxrt6Cg==",
+   "SquidPort": "8080",
+   "SSLPort": ""
   },
   {
    "FLAG": "9applogo",
@@ -325,60 +377,7 @@
    "NetworkBackQuery": "KUiEBX7OF6biOaS8+Oc0dw=="
   }
  ],
- "SSLNetworks": [
-  {
-   "FLAG": "9applogo",
-   "proto_spin": "3",
-   "server_type": "cf",
-   "Name": "zain ssl",
-   "SSLSNI": "UAy3pB9h0ReKDq8ED8Jm4Q==",
-   "SSLPayload": "KUiEBX7OF6biOaS8+Oc0dw==",
-   "Info": "high",
-   "UseDefProxy": "true",
-   "SquidProxy": "asTHFRLWKgIcm7hRxrt6Cg==",
-   "SquidPort": "8080",
-   "SSLPort": ""
-  },
-  {
-   "FLAG": "9applogo",
-   "proto_spin": "5",
-   "server_type": "cf",
-   "Name": "ssl payload ws",
-   "SSLSNI": "kppQ8pJFy9ZsbqCwsXvRRw==",
-   "SSLPayload": "8Ty3tgkGfD\/xNgdrhe1es0rmzrPOUnDzEFBa\/zQmAnmwZuNeqi\/\/aQEAamWKTaz9vmjmGjQYnM7b7Q9Mpqa5aUNQtttOXuPLFvG6INL5D3AXBOoWX\/6T0du6nFCTsJiw",
-   "Info": "ssl",
-   "UseDefProxy": "false",
-   "SquidProxy": "B9ChHHtzpIq1ReIaO8fQaQ==",
-   "SquidPort": "443",
-   "SSLPort": ""
-  },
-  {
-   "FLAG": "9applogo",
-   "proto_spin": "4",
-   "server_type": "cf",
-   "Name": "ssl payload only",
-   "SSLSNI": "kppQ8pJFy9ZsbqCwsXvRRw==",
-   "SSLPayload": "b99IkvrXmW9lmV1H+cJZTuD\/hPlsA89u69j0Grjg7ucklNOXfAuM1Gi5VhLhfbxqGdIpc6uWDI4eFwT2gyxGiKRyFZSuio9Uyc8n+nasQ+QAz8EYYrvD6F4IFVjwA1vsItIoHpQwvuqDRqz3xmud9enGGp0vgMTi+pdHfE+ILkgQC1bvKwODYWW+r1V9ghni",
-   "Info": "",
-   "UseDefProxy": "true",
-   "SquidProxy": "asTHFRLWKgIcm7hRxrt6Cg==",
-   "SquidPort": "8080",
-   "SSLPort": ""
-  },
-  {
-   "FLAG": "9applogo",
-   "proto_spin": 3,
-   "server_type": "cf",
-   "Name": "netflix ssl",
-   "SSLSNI": "HV9fKXdx97sYLhegbbwsyjzjViu45kyQ2YqSNLcf\/yk=",
-   "SSLPayload": "KUiEBX7OF6biOaS8+Oc0dw==",
-   "Info": "",
-   "UseDefProxy": true,
-   "SquidProxy": "asTHFRLWKgIcm7hRxrt6Cg==",
-   "SquidPort": "8080",
-   "SSLPort": ""
-  }
- ],
+ "SSLNetworks": [],
  "JSONsettings": [
   {
    "mLocalPort": "1080",
